@@ -8,14 +8,13 @@
 
 ### About me
 
-Computer Engineering student at **ETSIIT, Universidad de Granada** — 2nd year.
+Computer Engineering student at **ETSIIT, Universidad de Granada**.
 Before the degree, I completed a Higher Technician in **Network Systems Administration (ASIR)**, which means I think about software with a systems mindset most CS students don't develop until much later.
 
 Currently exploring where I want to specialise: **backend development**, **AI/ML** and anything that involves servers. I learn by building — not just following tutorials.
 
-At home I run a **Raspberry Pi homelab** with multiple self-hosted services orchestrated via Docker Compose. It's my personal lab for infrastructure experiments and the thing I'm most proud of right now.
+At home I run a **Raspberry Pi homelab** with multiple self-hosted services orchestrated via Docker Compose. It's my personal lab for infrastructure experiments.
 
-Offline: gym and cinema.
 
 ---
 
@@ -62,9 +61,9 @@ Offline: gym and cinema.
 
 ### Currently
 
-- 📚 &nbsp;2nd year · CS Engineering · ETSIIT, UGR · Granada
+- 📚 &nbsp;CS Engineering · ETSIIT, UGR · Granada
 - 🔨 &nbsp;Building projects — going public this summer
-- 🏠 &nbsp;Homelab on Raspberry Pi: self-hosted services with Docker Compose
+- 🐧 &nbsp;Open Source enthusiast
 - 🎯 &nbsp;Diving into: AI/ML, backend architectures, distributed systems
 
 ---
