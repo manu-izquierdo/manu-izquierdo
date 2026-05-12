@@ -42,7 +42,7 @@ At home I run a **Raspberry Pi homelab** with multiple self-hosted services orch
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/ML%2FAI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
+<!--
 ---
 
 ### GitHub Stats
@@ -56,7 +56,7 @@ At home I run a **Raspberry Pi homelab** with multiple self-hosted services orch
 [![GitHub Streak](https://streak-stats.demolab.com?user=manuizquierdo&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
 </div>
-
+-->
 ---
 
 ### Currently
