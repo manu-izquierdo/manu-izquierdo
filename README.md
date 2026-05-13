@@ -63,7 +63,7 @@ At home I run a **Raspberry Pi homelab** with multiple self-hosted services orch
 
 <div align="center">
   
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=manu-izquierdo&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=manu-izquierdo&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manu-izquierdo&theme=aura_dark&utcOffset=2)
 
