@@ -4,7 +4,9 @@
 
 </div>
 
----
+
+![Profile view counter](https://komarev.com/ghpvc/?username=manu-izquierdo&style=for-the-badge)
+
 
 ## About me
 
@@ -19,27 +21,27 @@ At home I run a **Raspberry Pi homelab** with multiple self-hosted services orch
 
 ## Stack
 
-**Languages**
+**Programming Languages I've worked with**
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,php,ruby,html,css," alt="Languages: C, C++, Java, JS, PHP, Ruby, HTML, CSS" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,js,html,css," alt="" />
   </a>
 </p>
 
-**Infrastructure & Tools**
+**Familiar Languages**
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,docker,bash,git,raspberrypi,vim&perline=8" alt="Infra: Linux, Docker, Bash, Git, Nginx, Raspberry Pi, Vim" />
+    <img src="https://skillicons.dev/icons?i=c,php,ruby" alt="" />
   </a>
 </p>
 
-**Others**
+**Tools with Experiences**
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,figma,&perline=8" alt="Databases: MySQL, Figma" />
+    <img src="https://skillicons.dev/icons?i=linux,docker,raspberrypi,bash,git,vim,mysql,firebase,figma" alt="" />
   </a>
 </p>
 
@@ -47,7 +49,7 @@ At home I run a **Raspberry Pi homelab** with multiple self-hosted services orch
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,ts,aws&theme=dark&perline=8" alt="Learning: Python, AWS" />
+    <img src="https://skillicons.dev/icons?i=python,aws&theme=dark&perline=8" alt="" />
   </a>
 </p>
 
@@ -55,18 +57,24 @@ At home I run a **Raspberry Pi homelab** with multiple self-hosted services orch
 
 ---
 
-## GitHub Stats
+## Some Stats
 
-[![Manu GitHub stats](https://github-readme-stats.vercel.app/api?username=manu-izquierdo)](https://github.com/manu-izquierdo/github-readme-stats)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=manu-izquierdo&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manu-izquierdo&theme=aura_dark&utcOffset=8)
 
 ---
 
 ## Currently
 
-- 📚 &nbsp;CS Engineering · ETSIIT, UGR · Granada
-- 🔨 &nbsp;Building projects
-- 🐧 &nbsp;Open Source enthusiast
-- 🎯 &nbsp;Diving into: AI/ML, backend architectures, distributed systems
+📚 &nbsp;CS Engineering · ETSIIT, UGR · Granada
+
+🔨 &nbsp;Building projects
+
+🐧 &nbsp;Open Source enthusiast
+
+🎯 &nbsp;Diving into: AI/ML, backend architectures, distributed systems
 
 ---
 
@@ -85,9 +93,11 @@ At home I run a **Raspberry Pi homelab** with multiple self-hosted services orch
   <a href="https://github.com/manu-izquierdo">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  &nbsp;
   <a href="https://github.com/manu-izquierdo?tab=repositories">
     <img src="https://img.shields.io/badge/My_Repos-A2A3BB?style=for-the-badge&logo=cobalt&logoColor=white" alt="MyRepos" />
   </a>
+  &nbsp;
   <a href="https://github.com/manu-izquierdo?tab=repositories">
     <img src="https://img.shields.io/badge/Do_it_Yourself-5B7553?style=for-the-badge&logoColor=black)](https://github.com/manu-izquierdo" alt="DIY" />
   </a>
