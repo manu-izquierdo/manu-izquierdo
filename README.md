@@ -6,7 +6,7 @@
 
 ---
 
-### About me
+## About me
 
 Computer Engineering student at **ETSIIT, Universidad de Granada**.
 Before the degree, I completed a Higher Technician in **Network Systems Administration (ASIR)**, which means I think about software with a systems mindset most CS students don't develop until much later.
@@ -15,56 +15,88 @@ Currently exploring where I want to specialise: **backend development**, **AI/ML
 
 At home I run a **Raspberry Pi homelab** with multiple self-hosted services orchestrated via Docker Compose. It's my personal lab for infrastructure experiments.
 
-
 ---
 
-### Stack
+## Stack
 
-**Languages I work with**
+**Languages**
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,php,ruby,html,css," alt="Languages: C, C++, Java, JS, PHP, Ruby, HTML, CSS" />
+  </a>
+</p>
 
-**Infrastructure & tools**
+**Infrastructure & Tools**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,docker,bash,git,raspberrypi,vim&perline=8" alt="Infra: Linux, Docker, Bash, Git, Nginx, Raspberry Pi, Vim" />
+  </a>
+</p>
+
+**Others**
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,figma,&perline=8" alt="Databases: MySQL, Figma" />
+  </a>
+</p>
 
 **Currently learning**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/ML%2FAI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-<!--
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,ts,aws&theme=dark&perline=8" alt="Learning: Python, AWS" />
+  </a>
+</p>
+
+<br/>
+
 ---
 
-### GitHub Stats
+## GitHub Stats
 
-<div align="center">
+[![Manu GitHub stats](https://github-readme-stats.vercel.app/api?username=manu-izquierdo)](https://github.com/manu-izquierdo/github-readme-stats)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=manuizquierdo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&rank_icon=github)](https://github.com/manuizquierdo)
-&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuizquierdo&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9)](https://github.com/manuizquierdo)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=manuizquierdo&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
-
-</div>
--->
 ---
 
-### Currently
+## Currently
 
 - 📚 &nbsp;CS Engineering · ETSIIT, UGR · Granada
-- 🔨 &nbsp;Building projects — going public this summer
+- 🔨 &nbsp;Building projects
 - 🐧 &nbsp;Open Source enthusiast
 - 🎯 &nbsp;Diving into: AI/ML, backend architectures, distributed systems
+
+---
+
+
+## Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/manuizquierdo/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:manuizq.contact@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/manu-izquierdo">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://github.com/manu-izquierdo?tab=repositories">
+    <img src="https://img.shields.io/badge/My_Repos-A2A3BB?style=for-the-badge&logo=cobalt&logoColor=white" alt="MyRepos" />
+  </a>
+  <a href="https://github.com/manu-izquierdo?tab=repositories">
+    <img src="https://img.shields.io/badge/Do_it_Yourself-5B7553?style=for-the-badge&logoColor=black)](https://github.com/manu-izquierdo" alt="DIY" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 
 ---
 
