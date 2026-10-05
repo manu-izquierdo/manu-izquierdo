@@ -43,7 +43,7 @@ At home I run a **Raspberry Pi homelab** with multiple self-hosted services orch
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,docker,raspberrypi,bash,git,vim,mysql,firebase,figma" alt="" />
+    <img src="https://skillicons.dev/icons?i=linux,arch,docker,raspberrypi,bash,git,vim,mysql,firebase,figma,godot" alt="" />
   </a>
 </p>
 
